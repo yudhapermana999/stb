@@ -1,0 +1,170 @@
+proxies:
+  - name: SAKHI ID1 Zhejiang Taobao Network
+    server: cf.shopee.co.id.sea-sw.swiftserve.com
+    port: 80
+    type: vless
+    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: id1.sakhi.my.id
+    network: ws
+    ws-opts:
+      path: /JoinTelegram@Viper_Network
+      headers:
+        Host: id1.sakhi.my.id
+    udp: true
+  - name: SAKHI ID2 Zhejiang Taobao Network
+    server: cf.shopee.co.id.sea-sw.swiftserve.com
+    port: 80
+    type: vless
+    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: id2.sakhi.my.id
+    network: ws
+    ws-opts:
+      path: /JoinTelegram@Viper_Network
+      headers:
+        Host: id2.sakhi.my.id
+    udp: true
+  - name: SAKHI ID3 Zhejiang Taobao Network
+    server: cf.shopee.co.id.sea-sw.swiftserve.com
+    port: 80
+    type: vless
+    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: id3.sakhi.my.id
+    network: ws
+    ws-opts:
+      path: /JoinTelegram@Viper_Network
+      headers:
+        Host: id3.sakhi.my.id
+    udp: true
+  - name: khim2024 HTTP
+    server: cf.shopee.co.id.sea-sw.swiftserve.com
+    port: 80
+    type: vmess
+    uuid: 6d31abde-589f-5f5d-9c24-db6cbf38c001
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: xr-cb001.ipku.xyz
+    network: ws
+    ws-opts:
+      path: /xrayvmess
+      headers:
+        Host: xr-cb001.ipku.xyz
+    udp: true
+  - name: Outher23aug HTTP
+    server: cf.shopee.co.id.sea-sw.swiftserve.com
+    port: 80
+    type: vmess
+    uuid: eb2623dc-1979-4bbf-8b08-f93ac3afa29e
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: runcloud-bgn.apasih.id
+    network: ws
+    ws-opts:
+      path: /buy-vmess-ws-pm-telegram-at-synricha
+      headers:
+        Host: runcloud-bgn.apasih.id
+    udp: true
+  - name: SAKHI SG1 Singapore Alibaba
+    server: cvs-deo.shopeemobile.com
+    port: 443
+    type: vless
+    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: cvs-deo.shopeemobile.com.sg1.sakhi.my.id
+    network: ws
+    ws-opts:
+      path: /JoinTelegram@Viper_Network
+      headers:
+        Host: cvs-deo.shopeemobile.com.sg1.sakhi.my.id
+    udp: true
+  - name: SAKHI SG2 Singapore ByteVirt
+    server: cvs-deo.shopeemobile.com
+    port: 443
+    type: vless
+    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: cvs-deo.shopeemobile.com.sg2.sakhi.my.id
+    network: ws
+    ws-opts:
+      path: /JoinTelegram@Viper_Network
+      headers:
+        Host: cvs-deo.shopeemobile.com.sg2.sakhi.my.id
+    udp: true
+  - name: SAKHI SG3 Singapore Digital Ocean
+    server: cvs-deo.shopeemobile.com
+    port: 443
+    type: vless
+    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: cvs-deo.shopeemobile.com.sg3.sakhi.my.id
+    network: ws
+    ws-opts:
+      path: /JoinTelegram@Viper_Network
+      headers:
+        Host: cvs-deo.shopeemobile.com.sg3.sakhi.my.id
+    udp: true
+  - name: SAKHI SG4 Singapore Digital Ocean
+    server: cvs-deo.shopeemobile.com
+    port: 443
+    type: vless
+    uuid: fccdaaae-af39-41a7-9fde-fd32a48278cf
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: cvs-deo.shopeemobile.com.sg4.sakhi.my.id
+    network: ws
+    ws-opts:
+      path: /JoinTelegram@Viper_Network
+      headers:
+        Host: cvs-deo.shopeemobile.com.sg4.sakhi.my.id
+    udp: true
+  - name: Outher23aug HTTP
+    server: cvs-deo.shopeemobile.com
+    port: 443
+    type: vmess
+    uuid: eb2623dc-1979-4bbf-8b08-f93ac3afa29e
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: cvs-deo.shopeemobile.com.runcloud-bgn.apasih.id
+    network: ws
+    ws-opts:
+      path: /buy-vmess-ws-pm-telegram-at-synricha
+      headers:
+        Host: cvs-deo.shopeemobile.com.runcloud-bgn.apasih.id
+    udp: true
+  - name: khim2024 HTTP
+    server: cvs-deo.shopeemobile.com
+    port: 443
+    type: vmess
+    uuid: 6d31abde-589f-5f5d-9c24-db6cbf38c001
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: cvs-deo.shopeemobile.com.xr-cb001.ipku.xyz
+    network: ws
+    ws-opts:
+      path: /xrayvmess
+      headers:
+        Host: cvs-deo.shopeemobile.com.xr-cb001.ipku.xyz
+    udp: true
