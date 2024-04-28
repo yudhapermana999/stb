@@ -136,7 +136,7 @@ proxies:
       headers:
         Host: cvs-deo.shopeemobile.com.sg4.sakhi.my.id
     udp: true
-  - name: Outher23aug HTTP
+  - name: Outher23aug HTTPS
     server: cvs-deo.shopeemobile.com
     port: 443
     type: vmess
@@ -152,7 +152,7 @@ proxies:
       headers:
         Host: cvs-deo.shopeemobile.com.runcloud-bgn.apasih.id
     udp: true
-  - name: khim2024 HTTP
+  - name: khim2024 HTTPS
     server: cvs-deo.shopeemobile.com
     port: 443
     type: vmess
