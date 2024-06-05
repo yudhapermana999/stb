@@ -1,0 +1,71 @@
+───────────────────────
+Telkomsel Opok ( Tester )
+───────────────────────
+Payload :
+GET http://tsel.me/worryfree HTTP/1.1[crlf]Host: z-p15.www.instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+
+Port :
+143, 8880 , 2082
+APN : www.xlgprs.com, telkomsel
+───────────────────────
+
+#*********************#
+
+───────────────────────
+Telkomsel Opok ( Tester )
+───────────────────────
+Payload :
+PUT http://kipi.covid19.go.id/cdn-cgi/trace HTTP/1.1[crlf]Host: kipi.covid19.go.id[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+
+Proxy :
+kipi.covid19.go.id:80
+APN : xlunlimited
+Notes : 
+• Mainin IP
+• Ga semuanya support TKP
+• Akfitin Jaga Pulsa
+───────────────────────
+
+#*********************#
+
+Pecahan Bug Opok Tsel ( Tester )
+───────────────────────
+Bug :
+hindilyricsapp.com
+cestmamanquilafait.com
+pharmadream.io
+kipi.covid19.go.id
+oldnavy.mx
+fevermag.com
+kezvideos.com
+leenkus.net
+mbedwars.com
+chat.covid19.go.id
+cdn.covid19.go.id
+cn.govopendata.com
+stux.games
+www.stux.games
+teslaoracle.com
+catseye.com.bd
+easytrdksa.com
+spekulasi.com
+momandworld.com
+www.ekriti.gr
+hairstylesweekly.com
+mathgoodies.com
+www.whoisabout.net
+webmail.whoisabout.net
+automobile-detail.com
+ekriti.gr
+moonbirdsnft.pages.dev
+dailyresearchplot.com
+prudentj2.com
+peacefulmind.com
+whoisabout.net
+lankasara.com
+signup-expresshostingafrica.co.za
+bestsoftwaremarket.com
+edustoke.com
+parent.edustoke.com
+spectrum.edustoke.com
+www.edustoke.com
