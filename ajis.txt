@@ -1,0 +1,6 @@
+APN AXIS ISAT UNLI OPOK ( TESTER )
+───────────────────────
+APN : data.vip.hr
+Jenis Type : PAP atau CHAP
+APN Protocol : IPV4/IPV6
+───────────────────────
